@@ -10,13 +10,11 @@ print(color1)
 print(color2)
 print(color3)
 
-
 numbers1 = (1,2,3)
 numbers2 = (4,5,6)
 
 combined = numbers1 + numbers2
 print(combined)
-
 
 alphabet = ('a','b','c','e','f','g',)
 print(alphabet[:3])
@@ -33,3 +31,4 @@ print(nested[2][1])
 colorss2 = ('red', 'green', 'blue')
 print('yellow' in colorss2)
 print('blue' in colorss2)
+
