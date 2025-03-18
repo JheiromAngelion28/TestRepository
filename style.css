@@ -1,0 +1,8 @@
+h1 {
+    height: 100px;
+    width: 100px;
+    text-align: center;background-color: aqua;
+    color: black;
+    font-family: 'Times New Roman';
+    border-radius: 10px;
+}
